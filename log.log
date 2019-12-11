@@ -1,0 +1,26 @@
+22:21:54.799 [Thread-2] INFO  Launcher - Running instrumented file: ./src/main/java/TestCode.java with arguments 10 50
+22:21:55.543 [Thread-3] INFO  Launcher - MethodDeclaration statement of method main with parameters [String[] args] and a return type of void at line number 11
+22:21:55.558 [Thread-3] INFO  Launcher - Declaration statement of variable var1 with value of 10 at line number 12
+22:21:55.582 [Thread-3] INFO  Launcher - Declaration statement of variable var2 with value of 50 at line number 13
+22:21:55.583 [Thread-3] INFO  Launcher - Declaration statement of variable var3 with value of 60 at line number 14
+22:21:55.583 [Thread-3] INFO  Launcher - MethodDeclaration statement of method getInt with parameters [] and a return type of int at line number 7
+22:21:55.584 [Thread-3] INFO  Launcher - Declaration statement of variable num with value of 1 at line number 8
+22:21:55.585 [Thread-3] INFO  Launcher - Assignment statement of variable var3 to getInt() resulting in value of 1 at line number 20
+22:21:55.589 [Thread-3] INFO  Launcher - IfStatement loop with statement var3 == 1 at line number 22
+22:21:55.597 [Thread-3] INFO  Launcher - Declaration statement of variable name with value of Maaz at line number 23
+22:21:55.599 [Thread-3] INFO  Launcher - MethodDeclaration statement of method getString with parameters [] and a return type of String at line number 3
+22:21:55.600 [Thread-3] INFO  Launcher - Declaration statement of variable str with value of Abdullah at line number 4
+22:21:55.602 [Thread-3] INFO  Launcher - Assignment statement of variable name to 24 resulting in value of getString() at line number Abdullah
+22:21:55.642 [Thread-2] INFO  Launcher - Running instrumented file: ./src/main/java/TestCode.java with arguments 20 70
+22:21:56.374 [Thread-3] INFO  Launcher - MethodDeclaration statement of method main with parameters [String[] args] and a return type of void at line number 11
+22:21:56.385 [Thread-3] INFO  Launcher - Declaration statement of variable var1 with value of 20 at line number 12
+22:21:56.387 [Thread-3] INFO  Launcher - Declaration statement of variable var2 with value of 70 at line number 13
+22:21:56.388 [Thread-3] INFO  Launcher - Declaration statement of variable var3 with value of 90 at line number 14
+22:21:56.390 [Thread-3] INFO  Launcher - MethodDeclaration statement of method getInt with parameters [] and a return type of int at line number 7
+22:21:56.391 [Thread-3] INFO  Launcher - Declaration statement of variable num with value of 1 at line number 8
+22:21:56.399 [Thread-3] INFO  Launcher - Assignment statement of variable var3 to getInt() resulting in value of 1 at line number 20
+22:21:56.408 [Thread-3] INFO  Launcher - IfStatement loop with statement var3 == 1 at line number 22
+22:21:56.416 [Thread-3] INFO  Launcher - Declaration statement of variable name with value of Maaz at line number 23
+22:21:56.419 [Thread-3] INFO  Launcher - MethodDeclaration statement of method getString with parameters [] and a return type of String at line number 3
+22:21:56.420 [Thread-3] INFO  Launcher - Declaration statement of variable str with value of Abdullah at line number 4
+22:21:56.422 [Thread-3] INFO  Launcher - Assignment statement of variable name to 24 resulting in value of getString() at line number Abdullah
